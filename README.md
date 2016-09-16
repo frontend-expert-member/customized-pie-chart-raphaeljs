@@ -1,4 +1,4 @@
-# customized-pie-chart-raphaeljs
+# Customized Pie Chart using Raphael JS
 
 Customized the color of the pie chart using Rapael JS Library
 
