@@ -17,4 +17,6 @@ One more thing on the sector to assign the bcolor color value to the variable to
 <pre>p = sector(cx, cy, r, angle, angle + angleplus, 
     {fill: "90-" + bcolor + "-" + bcolor, stroke: stroke, "stroke-width": 1})</pre>
     
-Finally achive the pie chart looks like below format:
+Finally achieve the pie chart looks like below format:
+
+![alt tag](https://github.com/mramkumar-mani/customized-pie-chart-raphaeljs/blob/master/pie-chart.png)
